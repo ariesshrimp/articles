@@ -8,3 +8,4 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks), Joe Armstrong
  * Joe Armstrong invented Erlang, one of the most important moments in the recent history of programming language design. The article expands on his feeling that "When [he] was first introduced to the idea of OOP [he] was skeptical but didn’t know why - it just felt 'wrong'..." I spent my early engineering career laboring under exactly this sentiment.
+ * > Since functions and data structures are completely different types of animal it is fundamentally incorrect to lock them up in the same cage
