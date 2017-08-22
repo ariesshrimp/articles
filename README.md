@@ -1,5 +1,5 @@
 # Articles
-A list of articles about software that I feel are worth reading.
+A list of articles, essays, and presentations about software that I feel are worth reading.
 
 ## Shortcomings of Object-Oriented Design
 
