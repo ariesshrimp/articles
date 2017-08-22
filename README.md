@@ -4,6 +4,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 ## Table of Contents
 
 - [Shortcomings of Object-Oriented Design](#shortcomings-of-object-oriented-design)
+- [GraphQL](#graphql)
 
 ## Shortcomings of Object-Oriented Design
 [table of contents](#table-of-contents)
@@ -20,6 +21,7 @@ A list of articles, essays, and presentations about software that I feel are wor
   * > Smalltalk was originally intended as a language that would be easy to learn. C++ is based on a fairly simple model, inherited from Simula, but is otherwise daunting in the complexity of its many features. Somewhere along the line something went wrong; what started as economical and uniform ("everything is an object") ended up as a baroque collection of class varieties. Java represents a healthy reaction to the complexity trend, but is more complex than many people realize.
 
 ## GraphQL
+[table of contents](#table-of-contents)
 
 - [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711), Robert Zhu
   * A brief comparison between GraphQL and REST API design from the perspective of domain-driven design. I'm really interested in domain-driven design, and this relationship is one of the main things that appeal to me about GraphQL. I've felt deeply confused about the domain shape of most products I've worked on. In my experience, few people have given the fundamental shape of their product space careful attention. But GraphQL makes that process much more natural and intuitive. The technology _invites_ a careful approach.
