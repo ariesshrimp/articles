@@ -1,4 +1,4 @@
-# Articles
+# Articles, Essays, and Presentations
 A list of articles, essays, and presentations about software that I feel are worth reading.
 
 ## Table of Contents
