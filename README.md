@@ -23,3 +23,5 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711), Robert Zhu
   * A brief comparison between GraphQL and REST API design from the perspective of domain-driven design. I'm really interested in domain-driven design, and this relationship is one of the main things that appeal to me about GraphQL. I've felt deeply confused about the domain shape of most products I've worked on. In my experience, few people have given the fundamental shape of their product space careful attention. But GraphQL makes that process much more natural and intuitive. The technology _invites_ a careful approach.
+
+- [GraphQL First: A better way to build modern apps](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0), Matt DeBergalis
