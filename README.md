@@ -35,6 +35,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef)
 
+- [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/), Dr. Gleb Bahmutov PhD
+  * A tutorial on writing pure functional reactive HTTP servers in Node.
+
 ## General Software Architecture
 [table of contents](#table-of-contents)
 
