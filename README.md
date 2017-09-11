@@ -6,6 +6,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Shortcomings of Object-Oriented Design](#shortcomings-of-object-oriented-design)
 - [GraphQL](#graphql)
 - [Functional Programming in JavaScript](#functional-programming-in-javascript)
+- [General Software Architecture](#general-software-architecture)
 
 ## Shortcomings of Object-Oriented Design
 [table of contents](#table-of-contents)
@@ -33,3 +34,13 @@ A list of articles, essays, and presentations about software that I feel are wor
 [table of contents](#table-of-contents)
 
 - [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef)
+
+## General Software Architecture
+[table of contents](#table-of-contents)
+
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
+  * An outline of Robert Martin's _Clean Code_ priniciples using contemporary JavaScript.
+  
+- [A Little Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html), Robert C. Martin
+  * A platonic dialogue between an aspiring software architect and an experienced one. The experienced one tries to explain what is really essential to maintainable architecture.
+  * > That’s right. They are. The important decisions that a Software Architect makes are the ones that allow you to NOT make the decisions about the database, and the webserver, and the frameworks.
