@@ -48,3 +48,6 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [A Little Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html), Robert C. Martin
   * A platonic dialogue between an aspiring software architect and an experienced one. The experienced one tries to explain what is really essential to maintainable architecture.
   * > That’s right. They are. The important decisions that a Software Architect makes are the ones that allow you to NOT make the decisions about the database, and the webserver, and the frameworks.
+
+- [Twelve-Factor Apps in Node.js](http://peterlyons.com/twelve-factor-nodejs#/), Peter Lyons
+  * A detailed discourse on implenting the [12 factor app principles](https://12factor.net/) in a `Node` project. Super useful to see Node specific explanations.
