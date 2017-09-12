@@ -33,7 +33,8 @@ A list of articles, essays, and presentations about software that I feel are wor
 ## Functional Programming in JavaScript
 [table of contents](#table-of-contents)
 
-- [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef)
+- [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef), Alex Kelley
+  * A truly comprehensive into pure functional programming using PureScript. This series is book length, and it dives _deep_. By article 9 the author is defining and implementing custom monoids.
 
 - [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/), Dr. Gleb Bahmutov PhD
   * A tutorial on writing pure functional reactive HTTP servers in Node.
@@ -41,7 +42,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 ## General Software Architecture
 [table of contents](#table-of-contents)
 
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
+- [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
   * An outline of Robert Martin's _Clean Code_ priniciples using contemporary JavaScript.
   
 - [A Little Architecture](http://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html), Robert C. Martin
