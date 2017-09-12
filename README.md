@@ -7,8 +7,10 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [GraphQL](#graphql)
 - [Functional Programming in JavaScript](#functional-programming-in-javascript)
 - [General Software Architecture](#general-software-architecture)
+- [Workflow and Process](#workflow-and-process)
 
 ## Shortcomings of Object-Oriented Design
+
 [table of contents](#table-of-contents)
 
 - [Pitfalls of Object Oriented Programming](http://harmful.cat-v.org/software/OO_programming/_pdf/Pitfalls_of_Object_Oriented_Programming_GCAP_09.pdf), Tony Albrecht
@@ -23,6 +25,7 @@ A list of articles, essays, and presentations about software that I feel are wor
   * > Smalltalk was originally intended as a language that would be easy to learn. C++ is based on a fairly simple model, inherited from Simula, but is otherwise daunting in the complexity of its many features. Somewhere along the line something went wrong; what started as economical and uniform ("everything is an object") ended up as a baroque collection of class varieties. Java represents a healthy reaction to the complexity trend, but is more complex than many people realize.
 
 ## GraphQL
+
 [table of contents](#table-of-contents)
 
 - [GraphQL and DDD: the Missing Link](https://hackernoon.com/graphql-and-ddd-the-missing-link-4e992a26b711), Robert Zhu
@@ -31,6 +34,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [GraphQL First: A better way to build modern apps](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0), Matt DeBergalis
 
 ## Functional Programming in JavaScript
+
 [table of contents](#table-of-contents)
 
 - [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef), Alex Kelley
@@ -40,7 +44,6 @@ A list of articles, essays, and presentations about software that I feel are wor
   * A tutorial on writing pure functional reactive HTTP servers in Node.
 
 ## General Software Architecture
-[table of contents](#table-of-contents)
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
   * An outline of Robert Martin's _Clean Code_ priniciples using contemporary JavaScript.
@@ -51,3 +54,10 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Twelve-Factor Apps in Node.js](http://peterlyons.com/twelve-factor-nodejs#/), Peter Lyons
   * A detailed discourse on implenting the [12 factor app principles](https://12factor.net/) in a `Node` project. Super useful to see Node specific explanations.
+
+## Workflow and Process
+
+[table of contents](#table-of-contents)
+
+- [Github Labels and Milestones](https://docs.saltstack.com/en/latest/topics/development/labels.html)
+  * SaltStack's label and milestone conventions. Lots of interesting ideas about how to organize work using Github features.
