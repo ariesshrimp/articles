@@ -67,3 +67,5 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/), MICHAEL DUBAKOV
   * An exploration of many factors that bear on the pace of development in software, both long-term and short-term. Lots of interesting external links too.
+
+- [](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
