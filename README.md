@@ -33,6 +33,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [GraphQL First: A better way to build modern apps](https://dev-blog.apollodata.com/graphql-first-a-better-way-to-build-modern-apps-b5a04f7121a0), Matt DeBergalis
 
+- [Lessons learned wrapping a REST API with GraphQL](http://www.joelgriffith.net/lessons-learned-wrapping-a-rest-api-with-graphql/), Joel Griffith
+  * A really clean approach to using GraphQL to automate REST service wrapping.
+
 ## Functional Programming in JavaScript
 
 [table of contents](#table-of-contents)
