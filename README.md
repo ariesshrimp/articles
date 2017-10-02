@@ -60,6 +60,8 @@ A list of articles, essays, and presentations about software that I feel are wor
   
 - [Partial Application is Dependency Injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
 
+- [Object-oriented Design Patterns From a Functional Perspective](http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective/)
+
 ## Workflow and Process
 
 [table of contents](#table-of-contents)
