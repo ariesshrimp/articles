@@ -36,7 +36,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Lessons learned wrapping a REST API with GraphQL](http://www.joelgriffith.net/lessons-learned-wrapping-a-rest-api-with-graphql/), Joel Griffith
   * A really clean approach to using GraphQL to automate REST service wrapping.
 
-## Functional Programming in JavaScript
+## Functional Programming
 
 [table of contents](#table-of-contents)
 
@@ -45,6 +45,8 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Node server with Rx and Cycle.js](https://glebbahmutov.com/blog/node-server-with-rx-and-cycle/), Dr. Gleb Bahmutov PhD
   * A tutorial on writing pure functional reactive HTTP servers in Node.
+
+- [Railway oriented programming](http://fsharpforfunandprofit.com/posts/recipe-part2/)
 
 ## General Software Architecture
 
@@ -72,4 +74,4 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/), MICHAEL DUBAKOV
   * An exploration of many factors that bear on the pace of development in software, both long-term and short-term. Lots of interesting external links too.
 
-- [](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
+- [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
