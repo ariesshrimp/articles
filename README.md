@@ -48,6 +48,10 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Railway oriented programming](http://fsharpforfunandprofit.com/posts/recipe-part2/)
 
+- [Partial Application is Dependency Injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
+
+- [Object-oriented Design Patterns From a Functional Perspective](http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective/)
+
 ## General Software Architecture
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
@@ -59,10 +63,6 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Twelve-Factor Apps in Node.js](http://peterlyons.com/twelve-factor-nodejs#/), Peter Lyons
   * A detailed discourse on implenting the [12 factor app principles](https://12factor.net/) in a `Node` project. Super useful to see Node specific explanations.
-  
-- [Partial Application is Dependency Injection](http://blog.ploeh.dk/2017/01/30/partial-application-is-dependency-injection/)
-
-- [Object-oriented Design Patterns From a Functional Perspective](http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective/)
 
 ## Workflow and Process
 
