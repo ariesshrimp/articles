@@ -5,7 +5,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Shortcomings of Object-Oriented Design](#shortcomings-of-object-oriented-design)
 - [GraphQL](#graphql)
-- [Functional Programming in JavaScript](#functional-programming-in-javascript)
+- [Functional Programming](#functional-programming)
 - [General Software Architecture](#general-software-architecture)
 - [Workflow and Process](#workflow-and-process)
 
