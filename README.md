@@ -63,6 +63,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Twelve-Factor Apps in Node.js](http://peterlyons.com/twelve-factor-nodejs#/), Peter Lyons
   * A detailed discourse on implenting the [12 factor app principles](https://12factor.net/) in a `Node` project. Super useful to see Node specific explanations.
+  
+  - [REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven), Roy T. Felding
+  * A bullet list of RESTful requirements by the original author of the REST thesis. The comment thread is also very instructive. See especially [comment #8](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#comment-724)
 
 ## Workflow and Process
 
