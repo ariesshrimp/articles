@@ -24,6 +24,10 @@ A list of articles, essays, and presentations about software that I feel are wor
   * A comparison of several good-making features of programming languages between "procedural" (functional) languages and object-oriented languges.
   * > Smalltalk was originally intended as a language that would be easy to learn. C++ is based on a fairly simple model, inherited from Simula, but is otherwise daunting in the complexity of its many features. Somewhere along the line something went wrong; what started as economical and uniform ("everything is an object") ended up as a baroque collection of class varieties. Java represents a healthy reaction to the complexity trend, but is more complex than many people realize.
 
+- [OOP Versus Functional Decomposition](https://www.coursera.org/learn/programming-languages-part-c/lecture/mKEXO/oop-versus-functional-decomposition)
+  * A video explanation of how functional and object-oriented approaches are _so_ different, that they really amount to _exactly opposite_ ways of organzing a code base.
+  * [UW's entire series of classes on programming languages](https://www.coursera.org/learn/programming-languages/home/welcome) is also worth your time for much more of the same.
+  
 ## GraphQL
 
 [table of contents](#table-of-contents)
