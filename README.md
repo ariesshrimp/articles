@@ -27,6 +27,10 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [OOP Versus Functional Decomposition](https://www.coursera.org/learn/programming-languages-part-c/lecture/mKEXO/oop-versus-functional-decomposition)
   * A video explanation of how functional and object-oriented approaches are _so_ different, that they really amount to _exactly opposite_ ways of organzing a code base.
   * [UW's entire series of classes on programming languages](https://www.coursera.org/learn/programming-languages/home/welcome) is also worth your time for much more of the same.
+
+- [Arguments Against OOP](http://wiki.c2.com/?ArgumentsAgainstOop)
+  * Summary of Criticisms Against OO from the [WikiWikiWeb group](http://wiki.c2.com/?WikiWikiWeb)
+  * See also the [Benefits of OO](http://wiki.c2.com/?BenefitsOfOo) page for a fair counter-argument.
   
 ## GraphQL
 
