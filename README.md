@@ -8,6 +8,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Functional Programming](#functional-programming)
 - [General Software Architecture](#general-software-architecture)
 - [Workflow and Process](#workflow-and-process)
+- [Programmer Psychology & Paradigms](#programmer-psychology-&-paradigms)
 
 ## Shortcomings of Object-Oriented Design
 
@@ -87,3 +88,11 @@ A list of articles, essays, and presentations about software that I feel are wor
   * An exploration of many factors that bear on the pace of development in software, both long-term and short-term. Lots of interesting external links too.
 
 - [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
+
+## Programmer Psychology & Paradigms
+
+[table of contents](#table-of-contents)
+
+- [Re: `[Eve]` Re: Prototyping Eve's UI](https://groups.google.com/forum/#!msg/eve-talk/tLgrw4zlc5U/VTF1jtEHAAAJ), Chris Granger
+  * A brief desrciption of Granger's ambitions for the future of software development, in the context of a dramatic re-write of [Eve](http://witheve.com/philosophy/)
+  * > A while back I asked a question on Twitter - what if you could build a complete functional clone of FourSquare in a day? There are lots of angles you could take on that question, but the most relevant one here isn't about how the industry changes or what that means for software engineering, it's what that means for us as individuals. What could we do if the system you worked with didn't just make the cost of encoding very low, but helped you explore your idea as well? What would it mean if you really could build your entire idea in a day? The reason we started going down this UI is that we think it could be a viable path to that reality.
