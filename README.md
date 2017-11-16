@@ -90,6 +90,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24), Travis Reeder (Architect at Oracle)
 
+- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/), Avleen Vig (long time Sysadmin [everywhere](http://silverwraith.com/resume.php))
+  * a bunch of practical examples of ways to support and encourage growth in junior devs.
+
 ## Programmer Psychology & Paradigms
 
 [table of contents](#table-of-contents)
