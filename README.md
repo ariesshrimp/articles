@@ -20,6 +20,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks), Joe Armstrong
   * Joe Armstrong invented Erlang, one of the most important moments in the recent history of programming language design. The article expands on his feeling that "When [he] was first introduced to the idea of OOP [he] was skeptical but didn’t know why - it just felt 'wrong'..." I spent my early engineering career laboring under exactly this sentiment.
   * > Since functions and data structures are completely different types of animal it is fundamentally incorrect to lock them up in the same cage
+  * For some brief follow-up thoughts, see [No, that's not why OO sucks](http://www.librador.com/2012/07/16/No-thats-not-why-OO-sucks/), Martin Vilcans
 
 - [Bad Properties of OO](http://doc.cat-v.org/programming/bad_properties_of_OO), Luca Cardelli
   * A comparison of several good-making features of programming languages between "procedural" (functional) languages and object-oriented languges.
@@ -87,7 +88,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/), MICHAEL DUBAKOV
   * An exploration of many factors that bear on the pace of development in software, both long-term and short-term. Lots of interesting external links too.
 
-- [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24)
+- [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24), Travis Reeder (Architect at Oracle)
 
 ## Programmer Psychology & Paradigms
 
