@@ -85,7 +85,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 - [Github Labels and Milestones](https://docs.saltstack.com/en/latest/topics/development/labels.html)
   * SaltStack's label and milestone conventions. Lots of interesting ideas about how to organize work using Github features.
 
-- [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/), MICHAEL DUBAKOV
+- [Speed in Software Development](https://www.targetprocess.com/articles/speed-in-software-development/), Michael Dubakov
   * An exploration of many factors that bear on the pace of development in software, both long-term and short-term. Lots of interesting external links too.
 
 - [Why and How to Use Docker for Development](https://medium.com/travis-on-docker/why-and-how-to-use-docker-for-development-a156c1de3b24), Travis Reeder (Architect at Oracle)
