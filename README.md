@@ -4,6 +4,7 @@ A list of articles, essays, and presentations about software that I feel are wor
 ## Table of Contents
 
 - [Shortcomings of Object-Oriented Design](#shortcomings-of-object-oriented-design)
+- [Shortcomings of Relational Database Systems](#shortcomings-of-relational-database-systems)
 - [GraphQL](#graphql)
 - [Functional Programming](#functional-programming)
 - [General Software Architecture](#general-software-architecture)
@@ -34,6 +35,13 @@ A list of articles, essays, and presentations about software that I feel are wor
   * Summary of Criticisms Against OO from the [WikiWikiWeb group](http://wiki.c2.com/?WikiWikiWeb)
   * See also the [Benefits of OO](http://wiki.c2.com/?BenefitsOfOo) page for a fair counter-argument.
   
+## Shortcomings of Relational Database Systems
+[table of contents](#table-of-contents)
+
+- [OrmHate](https://martinfowler.com/bliki/OrmHate.html), Martin Fowler
+  * God I love this guy. Fowler argues that the biggest problem with ORMs is that the RDBMS way of modeling data is so different from the way of modeling data you want to use while programming. This resonates with me. RDBMS has _never_ made any sense to me as an abstraction. Tables are just a terrible way of conceptualizing almost anything. Everyone hates tables. Ask yourself what you'd happily track in a spread sheet. It should be a short list. Ask yourself what you'd happily track by dynamically linking many spread sheets together in complex and sophisticated ways. It should be a shorter list.
+  * ![](https://martinfowler.com/bliki/images/ormHate/sketch.png)
+
 ## GraphQL
 
 [table of contents](#table-of-contents)
