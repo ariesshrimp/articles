@@ -35,6 +35,11 @@ A list of articles, essays, and presentations about software that I feel are wor
   * Summary of Criticisms Against OO from the [WikiWikiWeb group](http://wiki.c2.com/?WikiWikiWeb)
   * See also the [Benefits of OO](http://wiki.c2.com/?BenefitsOfOo) page for a fair counter-argument.
   
+- [Object Oriented Programming is an Expensive Disaster Which Must End](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end), Lawrence Krubner
+  * A very systematic approach to the question, one that resonats with me as an analytic philosopher.
+  * Show that the purported benefits of OOP are not unique to OOP languages (OOP is not necessary to get encapsulation, inheritance, etc)
+  * Show that all OOP languages have severe shortcomings that nullify its purported benefets (OOP is not sufficient to get the kind of encapsulation, inheritance, etc that developers want)
+  
 ## Shortcomings of Relational Database Systems
 [table of contents](#table-of-contents)
 
