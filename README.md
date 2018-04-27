@@ -94,6 +94,9 @@ A list of articles, essays, and presentations about software that I feel are wor
   * A bullet list of RESTful requirements by the original author of the REST thesis. The comment thread is also very instructive. See especially [comment #8](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven#comment-724)
   * > I think most people just make the mistake that it should be simple to design simple things. In reality, the effort required to design something is inversely proportional to the simplicity of the result. As architectural styles go, REST is very simple.
   
+- [The Expression Problem](http://wiki.c2.com/?ExpressionProblem)
+  * A brief summary of the most pervasive problem in all software design
+  
 ## Workflow and Process
 
 [table of contents](#table-of-contents)
