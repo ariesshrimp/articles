@@ -75,6 +75,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [Object-oriented Design Patterns From a Functional Perspective](http://gorodinski.com/blog/2013/09/18/oop-patterns-from-a-functional-perspective/)
 
+- [What Made Lisp Different](http://www.paulgraham.com/diff.html), Paul Graham
+  * > Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to axiomatize computation.
+
 ## General Software Architecture
 
 - [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript), Ryan McDermott
