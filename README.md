@@ -111,6 +111,9 @@ A list of articles, essays, and presentations about software that I feel are wor
 
 - [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/), Avleen Vig (long time Sysadmin [everywhere](http://silverwraith.com/resume.php))
   * a bunch of practical examples of ways to support and encourage growth in junior devs.
+  
+- [The Coral Reef Pattern of Incremental Improvement](http://www.smashcompany.com/technology/the-coral-reef-pattern-of-incremental-improvement) - Lawrence Krubner
+  * how successful software is analogous to coral reefs or human cities
 
 ## Programmer Psychology & Paradigms
 
